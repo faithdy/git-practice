@@ -1,3 +1,4 @@
 first commit
 git add : staing area에 파일을 추가
 git commit
+git push
